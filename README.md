@@ -1,6 +1,6 @@
 # midtrans
 
-A Dart package for Midtrans [Midtrans](https://docs.midtrans.com/). Visit https://midtrans.com.
+A Dart package for [Midtrans](https://docs.midtrans.com/). Visit https://midtrans.com.
 
 [![pub package](https://img.shields.io/pub/v/midtrans.svg)](https://pub.dartlang.org/packages/midtrans)
 
